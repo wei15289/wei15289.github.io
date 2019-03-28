@@ -19,7 +19,7 @@
 [https://wei15289.github.io][1]
 
 ## 项目源码
-[https://github.com/wei15289/vblog][3]
+[https://github.com/wei15289/wei15289.github.io][3]
 
 ## 项目特点
 
